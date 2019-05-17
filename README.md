@@ -1,2 +1,2 @@
 # vue-weui
-基于weui的一套vue组件
+基于weui 一套vue.js组件库
